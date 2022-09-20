@@ -18,7 +18,7 @@
     </ul>
 </li>
 <li>Copiar sua api_client</li>
-<li>Substituir nos campos indicados neste repositório </li>
+<li>Substituir o client_id no local indicado em <strong>script.js</strong> </li>
 <li> Rodar o projeto (eu utilizei o liveserver) </li>
 </ol>
 </body>
