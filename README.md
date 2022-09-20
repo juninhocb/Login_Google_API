@@ -12,12 +12,12 @@
       <li> Definir informações a serem capturadas </li>
     </ul>
 </li>
-<li>Criar o ID do cliente (que irá se conectar a API) OAuth
+<li>Criar o ID do Cliente (que irá se conectar a API) OAuth
   <ul>
       <li> Adicionar as URIs autorizadas e redirecionamentos </li>
     </ul>
 </li>
-<li>Copiar sua api_client</li>
+<li>Copiar sua ID do Cliente</li>
 <li>Substituir o client_id no local indicado em <strong>script.js</strong> </li>
 <li> Rodar o projeto (eu utilizei o liveserver) </li>
 </ol>
