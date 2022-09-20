@@ -1,0 +1,10 @@
+.container {
+    width: min(36.3rem, 100%);
+    margin: 0 auto;
+    padding-top: 10;
+  }
+
+  .circle-image {
+      border-radius: 50%;
+  }
+  
