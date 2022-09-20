@@ -1,4 +1,4 @@
-## Passaos para reproduzir
+## Passos para reproduzir
 
 <body>
 <ol>
